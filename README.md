@@ -23,6 +23,7 @@
 ## About The Project
 
 The repository contains examples of real life logistic regression use case.
+- Wine quality estimation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -34,7 +35,7 @@ The repository contains examples of real life logistic regression use case.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
-- 
+- Wine quality estimation dataset : https://archive.ics.uci.edu/ml/datasets/wine+quality 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
