@@ -24,6 +24,7 @@
 
 The repository contains examples of real life logistic regression use case.
 - Wine quality estimation
+- Loan eligibility
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -35,10 +36,9 @@ The repository contains examples of real life logistic regression use case.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
-- Wine quality estimation dataset : https://archive.ics.uci.edu/ml/datasets/wine+quality 
+- Wine quality estimation dataset : https://archive.ics.uci.edu/ml/datasets/wine+quality
+- Loan eligibility dataset : https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
