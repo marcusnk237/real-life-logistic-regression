@@ -24,8 +24,6 @@
 
 The repository contains examples of real life logistic regression use case.
 - Wine quality estimation
-- Loan eligibility
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
